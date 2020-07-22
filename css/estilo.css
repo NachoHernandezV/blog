@@ -8,5 +8,10 @@ body{
     border: solid green 1px;
 }
 p{
-    font-family: "Courier";  
+    font-family: "Courier"; 
+} 
+
+.cabecera{
+    color: blueviolet;
+    border: solid yellow 1px;
 }
