@@ -1,9 +1,12 @@
 body{
     color:red;
-    font-family: "Arial";
+    font-family: "Courier";
     text-align: center;
     border: solid green 1px;
 }
 .container{
     border: solid green 1px;
+}
+p{
+    font-family: "Courier";  
 }
