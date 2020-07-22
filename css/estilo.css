@@ -7,3 +7,8 @@ body{
 .container{
     border: solid green 1px;
 }
+
+.cabecera{
+    color: blueviolet;
+    border: solid yellow 1px;
+}
